@@ -1,2 +1,2 @@
 # pocket-money-entry
-C언어로 구성한 용돈기입장
+C언어로 구현한 용돈기입장
