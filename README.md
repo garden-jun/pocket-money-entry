@@ -1,7 +1,7 @@
 # pocket-money-entry
 C언어로 구현한 용돈기입장
-![image](https://user-images.githubusercontent.com/79080825/149942060-01f6ff56-ba36-4a19-9038-9a4c585c05b0.png)
 
+![image](https://user-images.githubusercontent.com/79080825/149942060-01f6ff56-ba36-4a19-9038-9a4c585c05b0.png)
 ![image](https://user-images.githubusercontent.com/79080825/149941927-dde55c82-1753-40f1-9330-c760d5365dd3.png)
 ![image](https://user-images.githubusercontent.com/79080825/149941946-b068d171-aa3b-49be-a39f-f1377873742e.png)
 ![image](https://user-images.githubusercontent.com/79080825/149941959-df1d2536-cb70-4492-be56-d7f9b23ee06d.png)
